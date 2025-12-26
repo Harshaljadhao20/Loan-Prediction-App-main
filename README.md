@@ -1,1 +1,1 @@
-# Loan-Prediction-App-main
+# Loan-Prediction-App
